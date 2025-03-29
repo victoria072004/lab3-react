@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Salad with Tuna",
+      "image": "/images/recipe1.jpg",
+      "preparationTime": "15 min",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Cake",
+      "image": "/images/recipe2.jpg",
+      "preparationTime": "45 min",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian Pasta",
+      "image": "/images/recipe3.jpg",
+      "preparationTime": "30 min",
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "name": "Noodles",
+      "image": "/images/recipe4.jpg",
+      "preparationTime": "20 min",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Spicy Tacos",
+      "image": "/images/recipe5.jpg",
+      "preparationTime": "25 min",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Sushi Rolls",
+      "image": "/images/recipe6.jpg",
+      "preparationTime": "50 min",
+      "rating": 4.9
+    }
+  ]
+  
